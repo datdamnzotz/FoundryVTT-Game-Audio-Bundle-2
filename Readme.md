@@ -1,4 +1,4 @@
-# Foundry VTT - Game Audio Bundle 2
+# Foundry VTT - Game Audio Bundle 2 of 4
 
 This Foundry VTT module brings ROYALTY-FREE sound effects and music from http://www.sonniss.com
 (repackaged for FoundryVTT)
@@ -39,6 +39,16 @@ Open the Playlist from the Compendium Packs and drag a playlist into the Audio P
 </center>
 
 Enjoy!
+
+# Other Game Audio packs
+
+[Foundry VTT Game Audio Bundle 1](https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-1)
+
+**Foundry VTT Game Audio Bundle 2** <- you are here.
+
+**Foundry VTT Game Audio Bundle 3** coming soon...
+
+**Foundry VTT Game Audio Bundle 4** coming soon...
 
 # License
 [License](Licensing.pdf)
