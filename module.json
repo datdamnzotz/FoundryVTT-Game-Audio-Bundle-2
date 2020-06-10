@@ -1,0 +1,380 @@
+{
+  "name": "gAudioBundle-2",
+  "title": "Game Audio Bundle 2",
+  "description": "<p>High-quality sound effects from many of the best sound recordists and designers in the World. Use them personally or commercially without attribution. Sonniss LTD.</p>",
+  "version": "1.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.7.0",
+  "author": "DatDamnZotz [DatDamnZotz#7962]",
+  "packs": [
+    {
+      "name": "Game Audio Bundle 2 - 3maze",
+      "label": "Game Audio Bundle 2 - 3maze",
+      "path": "/packs/3maze.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Alexander Ahura",
+      "label": "Game Audio Bundle 2 - Alexander Ahura",
+      "path": "/packs/alexander-ahura.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Alexander Kopeikin",
+      "label": "Game Audio Bundle 2 - Alexander Kopeikin",
+      "path": "/packs/alexander-kopeikin.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Antisample",
+      "label": "Game Audio Bundle 2 - Antisample",
+      "path": "/packs/antisample.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Articulated Sounds",
+      "label": "Game Audio Bundle 2 - Articulated Sounds",
+      "path": "/packs/articulated-sounds.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Bluezone Corporation",
+      "label": "Game Audio Bundle 2 - Bluezone Corporation",
+      "path": "/packs/bluezone-corporation.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Borg Sound",
+      "label": "Game Audio Bundle 2 - Borg Sound",
+      "path": "/packs/borg-sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Byron Abadia",
+      "label": "Game Audio Bundle 2 - Byron Abadia",
+      "path": "/packs/byron-abadia.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Charlie Atanasyan",
+      "label": "Game Audio Bundle 2 - Charlie Atanasyan",
+      "path": "/packs/charlie-atanasyan.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Chris Skyes",
+      "label": "Game Audio Bundle 2 - Chris Skyes",
+      "path": "/packs/chris-skyes.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Collected Transients",
+      "label": "Game Audio Bundle 2 - Collected Transients",
+      "path": "/packs/collected-transients.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Creative Audio Pool",
+      "label": "Game Audio Bundle 2 - Creative Audio Pool",
+      "path": "/packs/creative-audio-pool.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Detunized",
+      "label": "Game Audio Bundle 2 - Detunized",
+      "path": "/packs/detunized.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Digital Rain Lab",
+      "label": "Game Audio Bundle 2 - Digital Rain Lab",
+      "path": "/packs/digital-rain-lab.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Double Trouble Audio",
+      "label": "Game Audio Bundle 2 - Double Trouble Audio",
+      "path": "/packs/double-trouble-audio.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Eiravaein Sound",
+      "label": "Game Audio Bundle 2 - Eiravaein Sound",
+      "path": "/packs/eiravaein-sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Eneas Mentzel",
+      "label": "Game Audio Bundle 2 - Eneas Mentzel",
+      "path": "/packs/eneas-mentzel.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Fascinated Sound",
+      "label": "Game Audio Bundle 2 - Fascinated Sound",
+      "path": "/packs/fascinated-sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - G4f Sfx",
+      "label": "Game Audio Bundle 2 - G4f Sfx",
+      "path": "/packs/g4f-sfx.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Gainwalkers",
+      "label": "Game Audio Bundle 2 - Gainwalkers",
+      "path": "/packs/gainwalkers.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Gamemaster Audio",
+      "label": "Game Audio Bundle 2 - Gamemaster Audio",
+      "path": "/packs/gamemaster-audio.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Glitchedtones",
+      "label": "Game Audio Bundle 2 - Glitchedtones",
+      "path": "/packs/glitchedtones.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Griffin Sound Design",
+      "label": "Game Audio Bundle 2 - Griffin Sound Design",
+      "path": "/packs/griffin-sound-design.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Hammer And Spark Audio Production",
+      "label": "Game Audio Bundle 2 - Hammer And Spark Audio Production",
+      "path": "/packs/hammer-and-spark-audio-production.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Hzandbits",
+      "label": "Game Audio Bundle 2 - Hzandbits",
+      "path": "/packs/hzandbits.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Jack Powell",
+      "label": "Game Audio Bundle 2 - Jack Powell",
+      "path": "/packs/jack-powell.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Jc Audio",
+      "label": "Game Audio Bundle 2 - Jc Audio",
+      "path": "/packs/jc-audio.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Joshua Reinhardt",
+      "label": "Game Audio Bundle 2 - Joshua Reinhardt",
+      "path": "/packs/joshua-reinhardt.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Kevin Durr",
+      "label": "Game Audio Bundle 2 - Kevin Durr",
+      "path": "/packs/kevin-durr.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Matiasmacsd",
+      "label": "Game Audio Bundle 2 - Matiasmacsd",
+      "path": "/packs/matiasmacsd.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Mattia Cellotto",
+      "label": "Game Audio Bundle 2 - Mattia Cellotto",
+      "path": "/packs/mattia-cellotto.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Mechanical Wave",
+      "label": "Game Audio Bundle 2 - Mechanical Wave",
+      "path": "/packs/mechanical-wave.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Mindful Audio",
+      "label": "Game Audio Bundle 2 - Mindful Audio",
+      "path": "/packs/mindful-audio.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Mononeshot",
+      "label": "Game Audio Bundle 2 - Mononeshot",
+      "path": "/packs/mononeshot.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Monte Sound",
+      "label": "Game Audio Bundle 2 - Monte Sound",
+      "path": "/packs/monte-sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Nikkö Barrera",
+      "label": "Game Audio Bundle 2 - Nikkö Barrera",
+      "path": "/packs/nikkö-barrera.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Pole Position",
+      "label": "Game Audio Bundle 2 - Pole Position",
+      "path": "/packs/pole-position.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Raconteur Sound",
+      "label": "Game Audio Bundle 2 - Raconteur Sound",
+      "path": "/packs/raconteur-sound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Redsonic",
+      "label": "Game Audio Bundle 2 - Redsonic",
+      "path": "/packs/redsonic.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Resonance Sound Design",
+      "label": "Game Audio Bundle 2 - Resonance Sound Design",
+      "path": "/packs/resonance-sound-design.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Robin Barstow",
+      "label": "Game Audio Bundle 2 - Robin Barstow",
+      "path": "/packs/robin-barstow.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Russell Gorsky",
+      "label": "Game Audio Bundle 2 - Russell Gorsky",
+      "path": "/packs/russell-gorsky.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Sergey Eybog",
+      "label": "Game Audio Bundle 2 - Sergey Eybog",
+      "path": "/packs/sergey-eybog.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Shapingwaves",
+      "label": "Game Audio Bundle 2 - Shapingwaves",
+      "path": "/packs/shapingwaves.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Sonocaine",
+      "label": "Game Audio Bundle 2 - Sonocaine",
+      "path": "/packs/sonocaine.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Sound Ex Machina",
+      "label": "Game Audio Bundle 2 - Sound Ex Machina",
+      "path": "/packs/sound-ex-machina.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Soundbits",
+      "label": "Game Audio Bundle 2 - Soundbits",
+      "path": "/packs/soundbits.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Soundfxwizard",
+      "label": "Game Audio Bundle 2 - Soundfxwizard",
+      "path": "/packs/soundfxwizard.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Soundholder",
+      "label": "Game Audio Bundle 2 - Soundholder",
+      "path": "/packs/soundholder.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Soundmorph",
+      "label": "Game Audio Bundle 2 - Soundmorph",
+      "path": "/packs/soundmorph.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Soundopolis",
+      "label": "Game Audio Bundle 2 - Soundopolis",
+      "path": "/packs/soundopolis.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Soundreorganized",
+      "label": "Game Audio Bundle 2 - Soundreorganized",
+      "path": "/packs/soundreorganized.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Stereo Chemistry",
+      "label": "Game Audio Bundle 2 - Stereo Chemistry",
+      "path": "/packs/stereo-chemistry.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Studio238",
+      "label": "Game Audio Bundle 2 - Studio238",
+      "path": "/packs/studio238.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - The Sound Keeper",
+      "label": "Game Audio Bundle 2 - The Sound Keeper",
+      "path": "/packs/the-sound-keeper.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - The Sound Pack Tree",
+      "label": "Game Audio Bundle 2 - The Sound Pack Tree",
+      "path": "/packs/the-sound-pack-tree.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - The Soundcatcher",
+      "label": "Game Audio Bundle 2 - The Soundcatcher",
+      "path": "/packs/the-soundcatcher.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Tone Manufacture",
+      "label": "Game Audio Bundle 2 - Tone Manufacture",
+      "path": "/packs/tone-manufacture.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - Tovusound",
+      "label": "Game Audio Bundle 2 - Tovusound",
+      "path": "/packs/tovusound.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - West Wolf",
+      "label": "Game Audio Bundle 2 - West Wolf",
+      "path": "/packs/west-wolf.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "Game Audio Bundle 2 - ZeroG",
+      "label": "Game Audio Bundle 2 - ZeroG",
+      "path": "/packs/zerog.db",
+      "entity": "Playlist"
+    }
+  ],
+  "url": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-2",
+  "manifest": "https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-2/master/module.json",
+  "download": "https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-2/releases/download/v1.0/v1.0.zip"
+}
