@@ -1,6 +1,6 @@
 # Foundry VTT - Game Audio Bundle 2
 
-This Foundry VTT module brings ROYALTY-FREE from Sonnis.com
+This Foundry VTT module brings ROYALTY-FREE sound effects and music from http://www.sonniss.com
 (repackaged for FoundryVTT)
 
 ## This is a large download
