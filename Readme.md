@@ -4,7 +4,7 @@ This Foundry VTT module brings ROYALTY-FREE from Sonnis.com
 (repackaged for FoundryVTT)
 
 ## This is a large download
-Featuring 54 playlists with 793 ogg files 721MB of sound effects and music which is transformed into Playlists for VTT.
+Featuring 61 playlists with 793 ogg files 721MB of sound effects and music which is transformed into Playlists for VTT.
 
 <center>
 
