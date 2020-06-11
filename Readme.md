@@ -12,13 +12,18 @@ Featuring 61 playlists with 793 ogg files 721MB of sound effects and music which
 
 </center>
 
-# Installation
+# Automatic Installation (from setup -> Add Modules)
 
 Install this module automatically by specifying the following public module URL:
 
 `https://raw.githubusercontent.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-2/master/module.json`
 
-After the install, as GM go to the `Manage Modules` options menu in your World Settings tab then enable the `Foundry VTT - Game Audio Bundle 2` module.
+# Manual Installation
+
+Download the latest release zip from `Releases` and unzip it to your module directory.  Restart VTT.
+
+# Activate the module
+After the install, as GM go to the `Manage Modules` options menu in your World Settings tab then enable the `Foundry VTT - Game Audio Bundle 1` module.
 
 <center>
 
