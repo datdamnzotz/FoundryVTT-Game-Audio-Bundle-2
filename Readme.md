@@ -45,9 +45,9 @@ Enjoy!
 
 **Foundry VTT Game Audio Bundle 2** <- you are here.
 
-**Foundry VTT Game Audio Bundle 3** coming soon...
+[Foundry VTT Game Audio Bundle 3](https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-3)
 
-**Foundry VTT Game Audio Bundle 4** coming soon...
+[Foundry VTT Game Audio Bundle 4](https://github.com/datdamnzotz/FoundryVTT-Game-Audio-Bundle-4)
 
 # License
 [License](Licensing.pdf)
