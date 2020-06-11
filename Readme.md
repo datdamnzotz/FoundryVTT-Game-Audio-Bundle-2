@@ -23,7 +23,7 @@ Install this module automatically by specifying the following public module URL:
 Download the latest release zip from `Releases` and unzip it to your module directory.  Restart VTT.
 
 # Activate the module
-After the install, as GM go to the `Manage Modules` options menu in your World Settings tab then enable the `Foundry VTT - Game Audio Bundle 1` module.
+After the install, as GM go to the `Manage Modules` options menu in your World Settings tab then enable the `Foundry VTT - Game Audio Bundle 2` module.
 
 <center>
 
