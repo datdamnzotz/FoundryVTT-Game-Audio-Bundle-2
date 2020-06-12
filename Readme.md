@@ -12,7 +12,9 @@ This Foundry VTT module brings ROYALTY-FREE sound effects and music from http://
 ## This is a large download
 Featuring 61 playlists with 793 ogg files 721MB of sound effects and music which is transformed into Playlists for VTT.
 
-![](img/comp.png?raw=true)
+![](img/lists.gif?raw=true)
+
+Full Playlist [here](playlists.txt)
 
 # Automatic Installation (from setup -> Add Modules)
 
